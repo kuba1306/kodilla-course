@@ -1,0 +1,16 @@
+These are the exercises performed during the JAVA Developer PLUS bootcamp organized by kodilla. Modules covered during the course:
+- Object-oriented programming
+-Introduction to the collection
+-Collections part 2
+-Java Developer tools
+-Stream, i.e. iteration through collections
+- Individual project (https://github.com/kuba1306/FirstGameGUI)
+-Key principles of software development
+-Spring5
+-Project patterns
+-JDBC
+- Spring Web - REST API (https://github.com/kuba1306/Tasks)
+- Deployment
+- Team project (https://github.com/adrianpaz/project-jdp-2204-01)
+- Tests
+- Sending mails and ThymeLeaf
